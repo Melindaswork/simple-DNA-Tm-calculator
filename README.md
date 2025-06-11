@@ -7,7 +7,7 @@ I previously did PASS, the selective first-year medical program in France, but d
 
 
 ## Features
-- Checks that the right type of file (**.csv** or **.fasta**) was input and extracts the DNA sequence in a list
+- Checks that the right type of file (**.csv** or **.fasta**) was input and extracts the DNA sequence.
 - Counts the number of **C** and **G** bases in a DNA sequence.
 - Calculates the **CG content** as a percentage.
 - Estimates the **melting temperature (Tm)** using the **Wallace formula**:
